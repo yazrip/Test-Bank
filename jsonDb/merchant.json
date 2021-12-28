@@ -1,0 +1,12 @@
+[
+    {
+       "id": "1",
+       "name": "PDAM",
+       "bill": 100000
+    },
+    {
+       "id": "2",
+       "name": "Pajak Rumah",
+       "bill": 300000
+    }
+ ]
